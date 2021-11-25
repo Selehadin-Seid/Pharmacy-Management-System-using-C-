@@ -1,0 +1,12 @@
+DRUGS ID      DRUGS NAME             DRUGS PRICE(Birr)
+			
+   1          Paracetamol (500mg)       17.00  birr
+   2          Tetracycline (250mg)	36.00  birr
+   3          Amoxicillin (250mg)       45.00  birr
+   4          Albendazole (100 mg)	97.00  birr
+   5          Diclofenac	 	42.00  birr
+   6          Doxycyline		150.00 birr
+   7          Amino Zinc Tablet		25.00  birr
+   8          Omeprazole		40.00  birr
+   9          Fabuloss 5		35.00  birr
+  10          Metronidazole		132.00 birr

@@ -1,0 +1,5 @@
+Number          Name           Medicine Name           Quantity       Payment
+1              Mikias Amoxicillin (250mg)                   1             45 Birr
+1              Mikias          Albendazole (100 mg)         1             97 Birr
+4               Selam                    Fabuloss 5         1             35 Birr
+9            Selhadin           Amoxicillin (250mg)         1             45 Birr
